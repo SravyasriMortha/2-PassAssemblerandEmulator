@@ -1,0 +1,25 @@
+
+Opcode Mnemonic Operand
+0      ldc      value
+1      adc      value
+2      ldl      value
+3      stl      value
+4      ldnl     value
+5      stnl     value
+6      add
+7      sub
+8      shl
+9      shr
+10     adj      value
+11     a2sp
+12     sp2a
+13     call     offset
+14     return
+15     brz      offset
+16     brlz     offset
+17     br       offset
+18     HALT
+       SET      value
+
+1 instructions executed
+
